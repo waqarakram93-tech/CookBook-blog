@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.App {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-background {
+    padding-top: 40px;
+    background-color: bisque;
+    height: 100px;
+    padding-right: 20px;
+}
+
+.image {
+    background-image: url("https://img.freepik.com/free-photo/healthy-food-background-autumn-fresh-vegetables-dark-stone-table-with-copy-space-top-view_127032-1954.jpg?size=626&ext=jpg");
+}
